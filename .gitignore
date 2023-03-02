@@ -1,0 +1,4 @@
+testdata/**
+*.sqlite3
+*.json
+*.txt
